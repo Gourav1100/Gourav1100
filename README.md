@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**Gourav1100/Gourav1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'> Hi! there :wave:</h1>
+<h2>
+  <p align='center'>
+    I'm Gourav Bidhuri 
+    <br>
+    I'm a student at Indian Institute of Technology Jammu
+  </p>
+</h2>
+<h3>  
+  <p align='center'> For enquiries, reach me out on
+    <br>
+    <a href="https://g.dev/Gourav1100"><sub><img src="https://img.icons8.com/color/50/000000/developer--v2.png"/></sub>g.dev/Gourav1100</a> 
+    <br> or
+    <br>
+      <a href="https://www.linkedin.com/in/gourav-bidhuri-643229214/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/></a>
+      <a href="https:/https://twitter.com/GouravBidhuri1"><img src="https://img.icons8.com/color/50/000000/twitter--v2.png"/></a> .
+  </p>
+</h3>
