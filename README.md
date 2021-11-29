@@ -1,13 +1,11 @@
-<h1> Hi! there :wave: </h1>
+### Hi! there :wave:
 <img align="right" src="https://komarev.com/ghpvc/?username=gourav1100&color=blue" />
-<h2>
-  I'm Gourav Bidhuri 
-    <br>
-    <br>
-    👨‍🎓 I'm a student at Indian Institute of Technology Jammu
-</h2>
 
- ### 🤔 For enquiries, reach me out on <br /> [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2] [![GoogleDev][3.2]][3]
+ I'm Gourav Bidhuri 
+ 
+ 👨‍🎓 I'm a student at Indian Institute of Technology Jammu
+ 
+ 🤔 For enquiries, reach me out on <br /> [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2] [![GoogleDev][3.2]][3]
 
 <!-- Icons -->
 
