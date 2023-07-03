@@ -17,7 +17,7 @@ I'm Gourav Bidhuri, a passionate Programmer focused on crafting efficient and sc
 
 ### Connect with Me
 
-- 📫 Reach me via email @ gauravb1100@gmail.com.
+- 📫 Reach me via email at gauravb1100@gmail.com.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/gourav-bidhuri-643229214).
 
 Let's code and collaborate on innovative solutions! 🚀
