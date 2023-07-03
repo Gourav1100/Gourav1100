@@ -1,25 +1,23 @@
-### Hi! there :wave:
-<img align="right" src="https://komarev.com/ghpvc/?username=gourav1100&color=blue" />
+## Hello, developers! 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=gourav1100&color=yellow&style=for-the-badge" />
 
- I'm Gourav Bidhuri 
- 
- 👨‍🎓 I'm a student at Indian Institute of Technology Jammu
- 
- 🤔 For enquiries, reach me out on <br /> [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2] [![GoogleDev][3.2]][3]
+I'm Gourav Bidhuri, a passionate Programmer focused on crafting efficient and scalable software solutions.
 
-<!-- Icons -->
+### About Me
 
-[1.2]: https://img.icons8.com/color/50/000000/twitter--v2.png
-[2.2]: https://img.icons8.com/fluency/50/000000/linkedin.png
-[3.2]: https://img.icons8.com/color/50/000000/developer--v2.png
+- 💻 Proficient in C, C++, Rust, Javascript, Typescript, Python.
+- 🌱 Continuously learning and exploring new tech to enhance my skills.
+- 🚀 Motivated by challenging projects that demand creative problem-solving.
 
-<!-- Links to your social media accounts -->
+### Tech Stack
 
-[1]: https:/https://twitter.com/GouravBidhuri1
-[2]: https://www.linkedin.com/in/gourav-bidhuri-643229214/
-[3]: https://g.dev/Gourav1100
+- Languages: C, C++, Rust, Javascript, Typescript, Python
+- Frameworks: Angular, ReactJS, ExpressJS, Electron, Django, Flask, Tauri
+- Tools: Git, GitHub, Postman, Bash
 
-<!-- end -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav1100&theme=graywhite&show_icons=true"/>
-</p>
+### Connect with Me
+
+- 📫 Reach me via email @ gauravb1100@gmail.com.
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gourav-bidhuri-643229214/).
+
+Let's code and collaborate on innovative solutions! 🚀
