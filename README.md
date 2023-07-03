@@ -1,4 +1,4 @@
-## Hello, developers! 👋
+## Hi, Developers! 👋
 <img align="right" src="https://komarev.com/ghpvc/?username=gourav1100&color=yellow&style=for-the-badge" />
 
 I'm Gourav Bidhuri, a passionate Programmer focused on crafting efficient and scalable software solutions.
@@ -18,6 +18,6 @@ I'm Gourav Bidhuri, a passionate Programmer focused on crafting efficient and sc
 ### Connect with Me
 
 - 📫 Reach me via email @ gauravb1100@gmail.com.
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gourav-bidhuri-643229214/).
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/gourav-bidhuri-643229214).
 
 Let's code and collaborate on innovative solutions! 🚀
