@@ -1,12 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=gourav1100&color=yellow&style=for-the-badge" />
 
-<h3>
-Hi I'm Gourav, a full stack developer. I'm currently working as a Software Engineer and looking to collaborate.
-</h3>
-<h3 align="center" style="font-size: 25px; font-weight: bold; margin-top: 20px; margin-bottom: 20px">💻 Tech Stack
+<img src="https://raw.githubusercontent.com/Gourav1100/Gourav1100/refs/heads/main/profile.svg" alt="profile">
+
+<h3 align="center">💻 Tech Stack
 </h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px; margin-bottom: 20px; flex-wrap: wrap">
+<div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
@@ -81,10 +80,10 @@ Hi I'm Gourav, a full stack developer. I'm currently working as a Software Engin
 <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" alt="Plex">
 <div>
 
-<h3 align="center" style="font-size: 25px; font-weight: bold; margin-top: 20px; margin-bottom: 20px">📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats
 </h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px; margin-bottom: 20px; flex-wrap: wrap">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Gourav1100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gourav1100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav1100&theme=dracula&hide_border=false" height="150" alt="streak graph" />
@@ -93,7 +92,7 @@ Hi I'm Gourav, a full stack developer. I'm currently working as a Software Engin
   </div>
 </div>
 
-<h3 align="center" style="font-size: 25px; font-weight: bold; margin-top: 20px; margin-bottom: 20px">🌐 Socials
+<h3 align="center" >🌐 Socials
 </h3>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px; margin-bottom: 20px; flex-wrap: wrap">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" onclick="window.open('https://www.instagram.com/_gourav_bidhuri_/')" style="cursor: pointer;" />
