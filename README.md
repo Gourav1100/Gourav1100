@@ -95,10 +95,18 @@
 <h3 align="center" >🌐 Socials
 </h3>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px; margin-bottom: 20px; flex-wrap: wrap">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" onclick="window.open('https://www.instagram.com/_gourav_bidhuri_/')" style="cursor: pointer;" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" onclick="window.open('https://discord.com/users/422261936957423627')" style="cursor: pointer;" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" onclick="mailto:gauravb1100@gmail.com" style="cursor: pointer;" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" onclick="window.open('https://www.linkedin.com/in/gourav-bidhuri-643229214/')" style="cursor: pointer;"  />
+  <a href="https://www.instagram.com/_gourav_bidhuri_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.com/users/422261936957423627" target="_black">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:gauravb1100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/gourav-bidhuri-643229214/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
 </div>
 
 <picture>
